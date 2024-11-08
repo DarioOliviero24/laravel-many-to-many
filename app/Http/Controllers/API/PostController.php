@@ -9,10 +9,13 @@ class PostController extends Controller
 {
     public function index(){
 
-        return response()->json([
-            'tutti' => 'i post'
-        ]);
+
     }
 
+    public function show(string $slug){
 
-}
+
+    }
+
+   
+};

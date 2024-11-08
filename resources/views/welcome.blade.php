@@ -9,9 +9,12 @@
                         Welcome!
                     </h1>
                     <br>
-                    La welcome page è una pagina pubblica (NON protetta)
+
                 </div>
             </div>
         </div>
+    </div>
+    <div>
+        <form action="..." method="post" enctype="multipart/form-data">
     </div>
 @endsection
